@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/benrollin/.talon/.venv/bin/python",
+    "python.analysis.extraPaths": ["chess_grid", "/Applications/Talon.app/Contents/Resources/python/lib/python3.9/site-packages/talon/types"],
+    "jupyter.jupyterServerType": "local"
+}
