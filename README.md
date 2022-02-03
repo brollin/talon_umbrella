@@ -9,3 +9,9 @@ Remember when cloning this repo:
 git clone --recursive https://github.com/brollin/talon_umbrella.git
 ```
 
+Or if you forgot to do that, use this command:
+
+```
+git submodule update --init --recursive
+```
+
