@@ -1,0 +1,18 @@
+[submodule "chess_grid"]
+	path = chess_grid
+	url = https://github.com/brollin/chess_grid.git
+[submodule "brollin_talon"]
+	path = brollin_talon
+	url = https://github.com/brollin/brollin_talon.git
+[submodule "screen-spots"]
+	path = screen-spots
+	url = https://github.com/AndrewDant/screen-spots.git
+[submodule "knausj_talon"]
+	path = knausj_talon
+	url = https://github.com/brollin/knausj_talon.git
+[submodule "talon_ui_helper"]
+	path = talon_ui_helper
+	url = https://github.com/splondike/talon_ui_helper.git
+[submodule "mouse_guide"]
+	path = mouse_guide
+	url = https://github.com/tararoys/mouse_guide.git
