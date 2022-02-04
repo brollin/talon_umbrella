@@ -15,3 +15,9 @@ Or if you forgot to do that, use this command:
 git submodule update --init --recursive
 ```
 
+Finally, if you do not have read access to the private repositories:
+
+```
+git clone https://github.com/brollin/talon_umbrella.git
+git submodule update --init screen-spots mouse_guide knausj_talon talon_ui_helper chess_grid
+```
