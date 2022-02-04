@@ -19,5 +19,6 @@ Finally, if you do not have read access to the private repositories:
 
 ```
 git clone https://github.com/brollin/talon_umbrella.git
+cd talon_umbrella
 git submodule update --init screen-spots mouse_guide knausj_talon talon_ui_helper chess_grid
 ```
