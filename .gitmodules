@@ -16,3 +16,6 @@
 [submodule "mouse_guide"]
 	path = mouse_guide
 	url = https://github.com/tararoys/mouse_guide.git
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = https://github.com/cursorless-dev/cursorless-talon.git

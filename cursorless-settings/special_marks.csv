@@ -1,0 +1,8 @@
+Spoken form, Cursorless identifier
+down, lineNumberRelativeDown
+nothing, nothing
+row, lineNumberModulo100
+source, previousSource
+that, previousTarget
+this, currentSelection
+up, lineNumberRelativeUp
