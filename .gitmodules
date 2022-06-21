@@ -19,3 +19,6 @@
 [submodule "cursorless-talon"]
 	path = cursorless-talon
 	url = https://github.com/cursorless-dev/cursorless-talon.git
+[submodule "dense-mouse-grid"]
+	path = dense-mouse-grid
+	url = ./dense-mouse-grid
