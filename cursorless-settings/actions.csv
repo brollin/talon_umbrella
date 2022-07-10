@@ -47,3 +47,8 @@ take, setSelection
 type deaf, revealTypeDefinition
 unfold, unfoldRegion
 wrap, wrapWithPairedDelimiter
+
+
+# 2022-07-09 20:16:08 - New entries automatically added by cursorless
+snippet, insertSnippet
+snippet make, generateSnippet

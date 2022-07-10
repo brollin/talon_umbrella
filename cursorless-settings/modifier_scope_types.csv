@@ -44,3 +44,7 @@ word, word
 
 # 2022-06-22 18:48:04 - New entries automatically added by cursorless
 selector, selector
+
+# 2022-07-09 20:16:09 - New entries automatically added by cursorless
+callee, functionCallee
+short paint, boundedNonWhitespaceSequence
