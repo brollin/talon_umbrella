@@ -22,3 +22,6 @@
 [submodule "dense-mouse-grid"]
 	path = dense-mouse-grid
 	url = ./dense-mouse-grid
+[submodule "brollin_talon_public"]
+	path = brollin_talon_public
+	url = https://github.com/brollin/brollin_talon_public.git
