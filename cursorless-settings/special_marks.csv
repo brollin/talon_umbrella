@@ -6,3 +6,7 @@ source, previousSource
 that, previousTarget
 this, currentSelection
 up, lineNumberRelativeUp
+
+
+# 2022-08-09 01:24:04 - New entries automatically added by cursorless
+special, unknownSymbol

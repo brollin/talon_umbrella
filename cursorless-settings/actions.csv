@@ -13,7 +13,7 @@ comment, toggleLineComment
 copy, copyToClipboard
 crown, scrollToTop
 dedent, outdentLine
-define, revealDefinition
+reveal, revealDefinition
 drink, editNewLineBefore
 drop, insertEmptyLineBefore
 extract, extractVariable
