@@ -28,3 +28,6 @@
 [submodule "rango-talon"]
 	path = rango-talon
 	url = ./rango-talon
+[submodule "flex-mouse-grid"]
+	path = flex-mouse-grid
+	url = ./flex-mouse-grid
