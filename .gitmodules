@@ -25,3 +25,6 @@
 [submodule "brollin_talon_public"]
 	path = brollin_talon_public
 	url = https://github.com/brollin/brollin_talon_public.git
+[submodule "rango-talon"]
+	path = rango-talon
+	url = ./rango-talon
