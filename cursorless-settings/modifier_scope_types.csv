@@ -29,7 +29,7 @@ link, url
 list, list
 map, map
 name, name
-paint, nonWhitespaceSequence
+long paint, nonWhitespaceSequence
 regex, regularExpression
 section, section
 start tag, xmlStartTag
@@ -47,4 +47,14 @@ selector, selector
 
 # 2022-07-09 20:16:09 - New entries automatically added by cursorless
 callee, functionCallee
-short paint, boundedNonWhitespaceSequence
+paint, boundedNonWhitespaceSequence
+
+
+# 2022-10-07 13:09:43 - New entries automatically added by cursorless
+chapter, chapter
+environment, environment
+paragraph, namedParagraph
+part, part
+subparagraph, subParagraph
+subsection, subSection
+subsubsection, subSubSection
