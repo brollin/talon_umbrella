@@ -24,7 +24,7 @@
 	url = https://github.com/brollin/brollin_talon_public.git
 [submodule "rango-talon"]
 	path = rango-talon
-	url = ./rango-talon
+	url = https://github.com/david-tejada/rango.git
 [submodule "flex-mouse-grid"]
 	path = flex-mouse-grid
-	url = ./flex-mouse-grid
+	url = https://github.com/brollin/flex-mouse-grid.git
