@@ -8,7 +8,7 @@
 	path = screen-spots
 	url = https://github.com/AndrewDant/screen-spots.git
 [submodule "knausj_talon"]
-	path = knausj_talon
+	path = community
 	url = https://github.com/brollin/knausj_talon.git
 [submodule "talon_ui_helper"]
 	path = talon_ui_helper
