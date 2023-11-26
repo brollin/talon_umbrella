@@ -31,3 +31,6 @@
 [submodule "talon-filetree-commands"]
 	path = talon-filetree-commands
 	url = https://github.com/paul-schaaf/talon-filetree-commands.git
+[submodule "talon-gaze-ocr"]
+	path = talon-gaze-ocr
+	url = https://github.com/brollin/talon-gaze-ocr.git

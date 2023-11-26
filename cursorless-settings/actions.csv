@@ -14,7 +14,7 @@ copy, copyToClipboard
 crown, scrollToTop
 dedent, outdentLine
 reveal, revealDefinition
-drink, editNewLineBefore
+preep, editNewLineBefore
 drop, insertEmptyLineBefore
 extract, extractVariable
 float, insertEmptyLineAfter
