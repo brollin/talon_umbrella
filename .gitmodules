@@ -34,3 +34,6 @@
 [submodule "talon-gaze-ocr"]
 	path = talon-gaze-ocr
 	url = https://github.com/brollin/talon-gaze-ocr.git
+[submodule "say-the-spire-talon"]
+	path = say-the-spire-talon
+	url = ./say-the-spire-talon
