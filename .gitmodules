@@ -37,3 +37,12 @@
 [submodule "speak-the-spire-talon"]
 	path = speak-the-spire-talon
 	url = ./speak-the-spire-talon
+[submodule "doordash-scraper"]
+	path = doordash-scraper
+	url = ./doordash-scraper
+[submodule "game-wip-talon"]
+	path = game-wip-talon
+	url = ./game-wip-talon
+[submodule "talon-ai-tools"]
+	path = talon-ai-tools
+	url = ./talon-ai-tools

@@ -49,3 +49,4 @@ A number of tools that I use:
 - [Rango](https://rango.click/#/) - voice command browser extension
 - [Homerow](https://www.homerow.app/) - keyboard shortcut accessibility tool
 - [Rectangle](https://rectangleapp.com/) - window manager
+- [iTerm 2](https://iterm2.com/) - terminal app
