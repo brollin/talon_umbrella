@@ -36,13 +36,13 @@
 	url = https://github.com/brollin/talon-gaze-ocr.git
 [submodule "speak-the-spire-talon"]
 	path = speak-the-spire-talon
-	url = ./speak-the-spire-talon
+	url = https://github.com/brollin/speak-the-spire-talon.git
 [submodule "doordash-scraper"]
 	path = doordash-scraper
-	url = ./doordash-scraper
+	url = https://github.com/brollin/doordash-scraper.git
 [submodule "game-wip-talon"]
 	path = game-wip-talon
-	url = ./game-wip-talon
+	url = https://github.com/brollin/game-wip-talon.git
 [submodule "talon-ai-tools"]
 	path = talon-ai-tools
-	url = ./talon-ai-tools
+	url = https://github.com/brollin/talon-ai-tools.git
