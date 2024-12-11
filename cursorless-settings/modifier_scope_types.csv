@@ -75,3 +75,7 @@ instance, instance
 # 2023-12-08 20:53:20 - New entries automatically added by cursorless
 command, command
 sentence, sentence
+
+# 2024-08-03 00:12:50 - New entries automatically added by cursorless
+glyph, glyph
+short block, boundedParagraph
