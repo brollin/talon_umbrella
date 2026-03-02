@@ -7,3 +7,7 @@ decremental, editor.emmet.action.decrementNumberByOneTenth
 closer, workbench.action.closeEditorsToTheRight
 shutter, codesnap.start
 emoji, emojisense.quickEmojitext
+
+git revert, git.revertSelectedRanges
+git stage, git.stageSelectedRanges
+git unstage, git.unstageSelectedRanges
